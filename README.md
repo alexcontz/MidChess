@@ -90,6 +90,10 @@ The game emphasizes **educational purposes**, with a focus on clean code and UI 
 
 ---
 
+## Full documentation is available in the [documentation](./documentation) directory.
+
+---
+
 ## License
 
 This project is licensed under the MIT Licence. See the [LICENSE](LICENSE.MD) file for details.  

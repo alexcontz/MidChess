@@ -1,0 +1,1 @@
+Use a mermaid diagram viewer by using a extension in Visual Studio or a live one on the web (ex: mermaid.live)

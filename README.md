@@ -1,6 +1,6 @@
 # MidChess
 
-**MidChess** is a Windows Forms application built using **Microsoft .NET Framework 4.7.2** and **C#**. This project is an educational and learning-focused attempt at implementing a "mid" chess experience. It is designed to be simple to run, easy to use and understand and visually appealing.  
+**MidChess** is a Windows Forms application built using **Microsoft .NET Framework 4.7.2** and **C#**. This project is an educational and learning-focused attempt at implementing a "mid" chess experience. It is designed to be simple to run, easy to use and visually appealing.  
 
 ---
 
@@ -20,7 +20,8 @@ The game emphasizes **educational purposes**, with a focus on clean code and UI 
 - **Simple UI:** A visually appealing interface for a polished chess experience.  
 - **Low Memory Usage:** Lightweight implementation suitable for older machines.  
 - **LAN Game Support:** Multiple server instances allow multiple games on the same network.  
-- **Move History & Takeback:** Review previous moves and undo mistakes.  
+- **Move History & Takeback:** Review previous moves and undo mistakes.
+- **Swap View:** Swap board view between white and black.
 - **Resign & Checkmate:** Standard chess mechanics implemented fully.  
 - **Check Notification:** Alerts when a player is in check.  
 
@@ -52,7 +53,8 @@ The game emphasizes **educational purposes**, with a focus on clean code and UI 
 2. Build and run the solution.
 
 ### B: Using the release
-
+1. Download the release
+2. Run Midchess.exe
 
 ---
 
@@ -76,28 +78,21 @@ The game emphasizes **educational purposes**, with a focus on clean code and UI 
 
 ## Modularity & Customization
 
-MidChess is designed to be **highly modular**, making it easy to:  
-
-- Add new chess pieces with custom sprites or images.  
-- Implement new gamemodes beyond standard chess.  
-- Customize UI elements, fonts, and board display.  
-- Extend chat functionality or LAN server behavior.  
-
 ---
 
 ## Future Improvements
 
-- Make a release
 - Implement AI opponents for single-player mode with custom difficulty scaling.  
 - Add online multiplayer over the internet.  
 - Introduce advanced custom gamemodes (e.g., Chess960).  
 - Expand UI options for themes and board layouts.  
+- Implement sound and timer
 
 ---
 
 ## License
 
-This project is licensed under the GNU General Public License. See the [LICENSE](LICENSE.MD) file for details.  
+This project is licensed under the MIT Licence. See the [LICENSE](LICENSE.MD) file for details.  
 
 ---
 

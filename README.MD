@@ -4,6 +4,15 @@
 
 ---
 
+## Screenshots
+![Main Menu](./assets/screenshots/Screenshot_1_.png)
+
+---
+
+![Offline Mode](./assets/screenshots/Screenshot_2.png)
+
+---
+
 ## Project Overview
 
 MidChess currently supports:  
@@ -54,7 +63,7 @@ The game emphasizes **educational purposes**, with a focus on clean code and UI 
 
 ### B: Using the release
 1. Download the release
-2. Run Midchess.exe
+2. Run MidChess.exe
 
 ---
 
@@ -76,15 +85,11 @@ The game emphasizes **educational purposes**, with a focus on clean code and UI 
 
 ---
 
-## Modularity & Customization
-
----
-
 ## Future Improvements
 
 - Implement AI opponents for single-player mode with custom difficulty scaling.  
 - Add online multiplayer over the internet.  
-- Introduce advanced custom gamemodes (e.g., Chess960).  
+- Introduce advanced custom gamemodes (e.g. Chess960).  
 - Expand UI options for themes and board layouts.  
 - Implement sound and timer
 
@@ -93,6 +98,10 @@ The game emphasizes **educational purposes**, with a focus on clean code and UI 
 ## Full documentation is available in the [documentation](./documentation) directory.
 
 ---
+
+## Credits
+
+See the [CREDITS](CREDITS.MD) file for details.  
 
 ## License
 

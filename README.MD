@@ -5,11 +5,11 @@
 ---
 
 ## Screenshots
-![Main Menu](./assets/screenshots/Screenshot_1_.png)
+![Main Menu](./MidChess/assets/screenshots/Screenshot_1.png)
 
 ---
 
-![Offline Mode](./assets/screenshots/Screenshot_2.png)
+![Offline Mode](./MidChess/assets/screenshots/Screenshot_2.png)
 
 ---
 

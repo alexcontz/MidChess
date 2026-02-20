@@ -61,6 +61,7 @@ The game emphasizes **educational purposes**, with a focus on clean code and UI 
 1. Clone the repository:
   ```bash
   git clone https://github.com/alexcontz/MidChess
+  ```
 2. Open the project in **Visual Studio 2019 or later**.  
 3. Build and run the solution.
 

@@ -62,8 +62,9 @@ The game emphasizes **educational purposes**, with a focus on clean code and UI 
   ```bash
   git clone https://github.com/alexcontz/MidChess
   ```
-2. Open the project in **Visual Studio 2019 or later**.  
-3. Build and run the solution.
+2. Make sure you have the correct Visual Studio packages needed for .NET 4.7.2 development with c# in Windows Forms
+3. Open the project in **Visual Studio 2019 or later**.  
+4. Build and run the solution.
 
 ### B: Using the release
 1. Download the release

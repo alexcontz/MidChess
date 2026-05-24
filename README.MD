@@ -53,10 +53,6 @@ The game emphasizes **educational purposes**, with a focus on clean code and UI 
 
 ## Installation
 
-# MidChess - Usage and Contribution
-
-## Installation
-
 ### A: Trough Visual Studio
 1. Clone the repository:
   ```bash
